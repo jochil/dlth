@@ -7,11 +7,11 @@ import (
 	"os/exec"
 	"path/filepath"
 
+	"github.com/CodeIntelligenceTesting/dlth/pkg/cfg"
+	"github.com/CodeIntelligenceTesting/dlth/pkg/metrics"
+	"github.com/CodeIntelligenceTesting/dlth/pkg/types"
 	"github.com/dominikbraun/graph"
 	"github.com/dominikbraun/graph/draw"
-	"github.com/jochil/dlth/pkg/cfg"
-	"github.com/jochil/dlth/pkg/metrics"
-	"github.com/jochil/dlth/pkg/types"
 	sitter "github.com/smacker/go-tree-sitter"
 )
 

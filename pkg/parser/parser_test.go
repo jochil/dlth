@@ -3,9 +3,9 @@ package parser_test
 import (
 	"testing"
 
-	"github.com/jochil/dlth/pkg/candidate"
-	"github.com/jochil/dlth/pkg/parser"
-	"github.com/jochil/dlth/pkg/types"
+	"github.com/CodeIntelligenceTesting/dlth/pkg/candidate"
+	"github.com/CodeIntelligenceTesting/dlth/pkg/parser"
+	"github.com/CodeIntelligenceTesting/dlth/pkg/types"
 	"github.com/stretchr/testify/assert"
 )
 

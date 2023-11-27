@@ -4,8 +4,8 @@ import (
 	"fmt"
 	"log/slog"
 
+	"github.com/CodeIntelligenceTesting/dlth/pkg/helper"
 	"github.com/dominikbraun/graph"
-	"github.com/jochil/dlth/pkg/helper"
 	sitter "github.com/smacker/go-tree-sitter"
 )
 

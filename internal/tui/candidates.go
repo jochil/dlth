@@ -4,13 +4,13 @@ import (
 	"fmt"
 	"strconv"
 
+	"github.com/CodeIntelligenceTesting/dlth/pkg/candidate"
+	"github.com/CodeIntelligenceTesting/dlth/pkg/generator"
+	"github.com/CodeIntelligenceTesting/dlth/pkg/types"
 	"github.com/charmbracelet/bubbles/table"
 	"github.com/charmbracelet/bubbles/viewport"
 	tea "github.com/charmbracelet/bubbletea"
 	"github.com/charmbracelet/lipgloss"
-	"github.com/jochil/dlth/pkg/candidate"
-	"github.com/jochil/dlth/pkg/generator"
-	"github.com/jochil/dlth/pkg/types"
 )
 
 var (

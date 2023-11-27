@@ -6,12 +6,12 @@ import (
 	"path/filepath"
 	"sort"
 
+	"github.com/CodeIntelligenceTesting/dlth/internal/tui"
+	"github.com/CodeIntelligenceTesting/dlth/pkg/candidate"
+	"github.com/CodeIntelligenceTesting/dlth/pkg/filter"
+	"github.com/CodeIntelligenceTesting/dlth/pkg/helper"
+	"github.com/CodeIntelligenceTesting/dlth/pkg/parser"
 	tea "github.com/charmbracelet/bubbletea"
-	"github.com/jochil/dlth/internal/tui"
-	"github.com/jochil/dlth/pkg/candidate"
-	"github.com/jochil/dlth/pkg/filter"
-	"github.com/jochil/dlth/pkg/helper"
-	"github.com/jochil/dlth/pkg/parser"
 	"github.com/spf13/cobra"
 )
 

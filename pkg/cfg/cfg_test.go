@@ -3,9 +3,9 @@ package cfg_test
 import (
 	"testing"
 
-	"github.com/jochil/dlth/pkg/candidate"
-	"github.com/jochil/dlth/pkg/helper"
-	"github.com/jochil/dlth/pkg/parser"
+	"github.com/CodeIntelligenceTesting/dlth/pkg/candidate"
+	"github.com/CodeIntelligenceTesting/dlth/pkg/helper"
+	"github.com/CodeIntelligenceTesting/dlth/pkg/parser"
 	"github.com/stretchr/testify/assert"
 	"github.com/stretchr/testify/require"
 )

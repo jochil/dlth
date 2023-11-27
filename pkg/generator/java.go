@@ -6,7 +6,7 @@ import (
 	"log/slog"
 	"text/template"
 
-	"github.com/jochil/dlth/pkg/candidate"
+	"github.com/CodeIntelligenceTesting/dlth/pkg/candidate"
 )
 
 //go:embed tmpl/java.tmpl

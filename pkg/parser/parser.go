@@ -8,9 +8,9 @@ import (
 	"strings"
 	"unicode"
 
-	"github.com/jochil/dlth/pkg/candidate"
-	"github.com/jochil/dlth/pkg/helper"
-	"github.com/jochil/dlth/pkg/types"
+	"github.com/CodeIntelligenceTesting/dlth/pkg/candidate"
+	"github.com/CodeIntelligenceTesting/dlth/pkg/helper"
+	"github.com/CodeIntelligenceTesting/dlth/pkg/types"
 	sitter "github.com/smacker/go-tree-sitter"
 )
 

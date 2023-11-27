@@ -6,8 +6,8 @@ import (
 	"log/slog"
 	"strings"
 
+	"github.com/CodeIntelligenceTesting/dlth/pkg/candidate"
 	"github.com/dave/jennifer/jen"
-	"github.com/jochil/dlth/pkg/candidate"
 )
 
 // CreateGoTest generates the test source code for a given candidate

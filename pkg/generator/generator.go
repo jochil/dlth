@@ -1,8 +1,8 @@
 package generator
 
 import (
-	"github.com/jochil/dlth/pkg/candidate"
-	"github.com/jochil/dlth/pkg/types"
+	"github.com/CodeIntelligenceTesting/dlth/pkg/candidate"
+	"github.com/CodeIntelligenceTesting/dlth/pkg/types"
 )
 
 func Render(c *candidate.Candidate) string {
